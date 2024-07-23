@@ -1,8 +1,16 @@
-# React + Vite
+# Vite JUEGO TRIKI (TIC TAC TOE) CON REACT Y VITE 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es un proyecto simple de un juego de Triki (Tic-Tac-Toe) implementado con React y configurado con Vite. El juego permite a dos jugadores alternar turnos para colocar sus marcas (X u O) en una cuadrícula 3x3 hasta que uno de los jugadores gane o haya un empate. 
 
-Currently, two official plugins are available:
+# CARASTERÍSTICAS
+Interfaz de usuario simple e intuitiva.
+Cambio de turnos entre dos jugadores.
+Detección de ganador o empate.
+Reinicio del juego.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# INSTALACIÓN 
+Clona este repositorio en tu máquina local.
+git clone https://github.com/juan982610/triky.git
+
+# INSTALA LAS DEPENDENCIA DEL PROYECTO.
+npm install
